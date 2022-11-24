@@ -3,7 +3,7 @@ package com.bridgelabz;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Day1_AnagramProblemStatement {
+public class AnagramProblemStatement {
     public static void anagramOne(String word1,String word2){
         char [] array1 = word1.toCharArray();
         char [] array2 = word2.toCharArray();
